@@ -1,9 +1,5 @@
-body {
-  min-height: 2000px;
-}
-
 .jumbotron {
-  padding-top: 2em;
+  padding-top: 6em;
   background-color: #c5d6e1;
 }
 
